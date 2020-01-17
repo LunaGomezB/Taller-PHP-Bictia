@@ -1,0 +1,75 @@
+body {
+    background-color: #1ea0b2;
+    
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.formulario{
+    margin-left: 70px;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+.inside{
+    margin-top: 20px;
+}
+.input{
+    margin: 10px;
+    padding: 7px;
+    border: black solid 2px;
+    
+}
+.input1{
+    margin: 10px;
+    padding: 7px;
+    border: black solid 2px;
+    
+}
+.boton{
+    background-color:  black;
+    margin-left: 36.5%;
+    color: white;
+    font-family: fantasy;
+    font-size: 15px;
+    padding: 15px;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+
+.boton2{
+    background-color:  black;
+    margin:10px;
+    color: white;
+    font-family: fantasy;
+    font-size: 15px;
+    padding: 15px;
+    border: solid black 2px;
+    border-radius: 10px;
+    margin-left: 36%;
+}
+.boton3{
+    background-color:  black;
+    margin:10px;
+    color: white;
+    font-family: fantasy;
+    font-size: 15px;
+    padding: 15px;
+    border: solid black 2px;
+    border-radius: 10px;
+    margin-left: 36.5%;
+    float: left;
+}
+.boton:hover{
+    background-color: #131616;
+    border: solid black 2px;
+
+
+
+}
